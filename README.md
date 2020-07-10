@@ -20,5 +20,10 @@ Python API Home Work
 * OpenWeatherMap.org API
 * Google Maps API
 
-## Project Description
+## Homwork Description
+
+Weather data can be a helpful information source in a multitude of applications. 
+
+In this homework I will be calling data for over 600 cities using latititude, logitute, maximum tempurature, humidity, cloudiness, wind speed, country, and date to find trends.
+
 
