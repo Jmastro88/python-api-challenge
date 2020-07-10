@@ -28,6 +28,6 @@ In this homework I will be calling data for over 600 cities using latititude, lo
 
 In addition, I will be using this data to find my ideal vacation spot based on weather consditions.
 
-My data point is  [GitHub](https://openweathermap.org/api)
+My data point is  [OpenWeatherMap](https://openweathermap.org/api)
 
 
